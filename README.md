@@ -1,5 +1,9 @@
 # nextjs-notes
 
+## 文章
+
+* [Arunoda - Next.Js Is it the next big thing in JavaScript?](https://jsmantra.com/next-js-53e9cf4da5af)
+* [Arunoda - Next on Next.js](https://jsmantra.com/next-on-next-js-1a134505f346)
 
 
 ### Fetching data and component lifecycle
